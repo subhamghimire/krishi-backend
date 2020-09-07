@@ -23,6 +23,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "laravel-mix-purgecss": "^5.0.0",
         "nepali-date-picker": "^2.0.1"
     }
 }
